@@ -1,0 +1,57 @@
+PING 10.16.32.61 (10.16.32.61) 56(84) Bytes Daten.
+64 Bytes von 10.16.32.61: icmp_seq=1 ttl=64 Zeit=3.81 ms
+64 Bytes von 10.16.32.61: icmp_seq=2 ttl=64 Zeit=55.4 ms
+64 Bytes von 10.16.32.61: icmp_seq=3 ttl=64 Zeit=188 ms
+64 Bytes von 10.16.32.61: icmp_seq=4 ttl=64 Zeit=294 ms
+64 Bytes von 10.16.32.61: icmp_seq=5 ttl=64 Zeit=51.7 ms
+64 Bytes von 10.16.32.61: icmp_seq=6 ttl=64 Zeit=52.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=7 ttl=64 Zeit=47.5 ms
+64 Bytes von 10.16.32.61: icmp_seq=8 ttl=64 Zeit=149 ms
+64 Bytes von 10.16.32.61: icmp_seq=9 ttl=64 Zeit=259 ms
+64 Bytes von 10.16.32.61: icmp_seq=10 ttl=64 Zeit=261 ms
+64 Bytes von 10.16.32.61: icmp_seq=11 ttl=64 Zeit=282 ms
+64 Bytes von 10.16.32.61: icmp_seq=12 ttl=64 Zeit=288 ms
+64 Bytes von 10.16.32.61: icmp_seq=13 ttl=64 Zeit=56.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=14 ttl=64 Zeit=28.1 ms
+64 Bytes von 10.16.32.61: icmp_seq=15 ttl=64 Zeit=94.4 ms
+64 Bytes von 10.16.32.61: icmp_seq=16 ttl=64 Zeit=59.3 ms
+64 Bytes von 10.16.32.61: icmp_seq=17 ttl=64 Zeit=83.0 ms
+64 Bytes von 10.16.32.61: icmp_seq=18 ttl=64 Zeit=91.7 ms
+64 Bytes von 10.16.32.61: icmp_seq=19 ttl=64 Zeit=45.9 ms
+64 Bytes von 10.16.32.61: icmp_seq=20 ttl=64 Zeit=71.2 ms
+64 Bytes von 10.16.32.61: icmp_seq=21 ttl=64 Zeit=78.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=22 ttl=64 Zeit=77.9 ms
+64 Bytes von 10.16.32.61: icmp_seq=23 ttl=64 Zeit=71.1 ms
+64 Bytes von 10.16.32.61: icmp_seq=24 ttl=64 Zeit=82.0 ms
+64 Bytes von 10.16.32.61: icmp_seq=25 ttl=64 Zeit=34.9 ms
+64 Bytes von 10.16.32.61: icmp_seq=26 ttl=64 Zeit=49.2 ms
+64 Bytes von 10.16.32.61: icmp_seq=27 ttl=64 Zeit=50.5 ms
+64 Bytes von 10.16.32.61: icmp_seq=28 ttl=64 Zeit=77.8 ms
+64 Bytes von 10.16.32.61: icmp_seq=29 ttl=64 Zeit=33.0 ms
+64 Bytes von 10.16.32.61: icmp_seq=30 ttl=64 Zeit=37.2 ms
+64 Bytes von 10.16.32.61: icmp_seq=31 ttl=64 Zeit=30.0 ms
+64 Bytes von 10.16.32.61: icmp_seq=32 ttl=64 Zeit=44.3 ms
+64 Bytes von 10.16.32.61: icmp_seq=33 ttl=64 Zeit=49.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=34 ttl=64 Zeit=90.9 ms
+64 Bytes von 10.16.32.61: icmp_seq=35 ttl=64 Zeit=149 ms
+64 Bytes von 10.16.32.61: icmp_seq=36 ttl=64 Zeit=50.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=37 ttl=64 Zeit=70.8 ms
+64 Bytes von 10.16.32.61: icmp_seq=38 ttl=64 Zeit=544 ms
+64 Bytes von 10.16.32.61: icmp_seq=39 ttl=64 Zeit=113 ms
+64 Bytes von 10.16.32.61: icmp_seq=40 ttl=64 Zeit=16.4 ms
+64 Bytes von 10.16.32.61: icmp_seq=41 ttl=64 Zeit=130 ms
+64 Bytes von 10.16.32.61: icmp_seq=42 ttl=64 Zeit=34.0 ms
+64 Bytes von 10.16.32.61: icmp_seq=43 ttl=64 Zeit=89.9 ms
+64 Bytes von 10.16.32.61: icmp_seq=44 ttl=64 Zeit=310 ms
+Von 10.16.32.22 icmp_seq=75 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=76 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=77 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=78 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=79 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=80 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=82 Zielhost nicht erreichbar
+Von 10.16.32.22 icmp_seq=83 Zielhost nicht erreichbar
+64 Bytes von 10.16.32.61: icmp_seq=84 ttl=64 Zeit=1037 ms
+64 Bytes von 10.16.32.61: icmp_seq=85 ttl=64 Zeit=13.6 ms
+64 Bytes von 10.16.32.61: icmp_seq=86 ttl=64 Zeit=2.11 ms
+64 Bytes von 10.16.32.61: icmp_seq=87 ttl=64 Zeit=1.45 ms
