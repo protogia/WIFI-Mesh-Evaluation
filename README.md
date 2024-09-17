@@ -1,6 +1,6 @@
-# WIFI-Mesh-Bandwith-Evaluation
+# WIFI-Mesh-Evaluation
 
-This project contains the measurement-setup for a wifi-bandwith measurement through a stationary wifi-accesspoint and a mobile client.
+This project contains the measurement-setup for a wifi-bandwith/-latency measurement through a stationary wifi-accesspoint and a mobile client.
 The bandwith and the network-latency to the destination-server and the current gps-location of the mobile client are measured per second.
 
 - Bandwith is measured via iperf3.
