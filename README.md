@@ -1,4 +1,4 @@
-# Bandwith-test
+# WIFI-Mesh-Bandwith-Evaluation
 
 This project contains the measurement-setup for a wifi-bandwith measurement through a stationary wifi-accesspoint and a mobile client.
 The bandwith and the network-latency to the destination-server and the current gps-location of the mobile client are measured per second.
