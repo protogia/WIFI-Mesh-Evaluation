@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "wifi-mesh-bandwith-evaluation"
+version = "0.1.0"
+description = "This repo contains all dependencies for my wifi-mesh-evaluation-setup described in this blog-article: https://protogia.github.io/blog/wifi-bandwith-evaluation"
+authors = ["protogia <goldengrizz01@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+rich-argparse = "^1.5.2"
+geopy = "^2.4.1"
+geopandas = "^1.0.1"
+pretty-errors = "^1.2.25"
+numpy = "^2.1.1"
+inquirerpy = "^0.3.4"
+prompt-toolkit = "^3.0.47"
+argcomplete = "^3.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+processmeasurement = "processing.__main__:main"
