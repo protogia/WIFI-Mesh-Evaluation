@@ -16,7 +16,10 @@ numpy = "^2.1.1"
 inquirerpy = "^0.3.4"
 prompt-toolkit = "^3.0.47"
 argcomplete = "^3.5.0"
+nbformat = "^4.2.0"
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
